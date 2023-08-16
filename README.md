@@ -1,4 +1,8 @@
 # Commands
+
+To install
+ - npm install
+
 To build
  - npm run build
 
